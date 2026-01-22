@@ -2,7 +2,7 @@
 
 **[EN]**  
 This project is conducted as a **Bachelor’s Graduation Thesis** at the  
-**University of Science – Vietnam National University, Hanoi (VNU-HUS)**.
+**Hanoi University of Science – Vietnam National University, Hanoi (VNU-HUS)**.
 
 It presents a **comprehensive and closed-loop research pipeline** for **quantifying and classifying lycopene content in tomatoes** by integrating **Raman spectroscopy** with **machine learning models**.  
 The study follows an **interdisciplinary approach** combining **Physics, Chemistry, and Data Science**, covering all stages from theoretical background, experimental measurement setup, data acquisition and preprocessing, to model optimization and evaluation.
