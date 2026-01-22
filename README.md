@@ -1,3 +1,5 @@
+# 🍅 Lycopene Classification in Tomatoes from Raman Spectroscopy using Machine Learning
+
 ## 📌 Project Summary
 
 **[EN]**  
